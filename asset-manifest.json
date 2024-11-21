@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab36d82e.css",
+    "main.js": "/static/js/main.fefdbf22.js",
+    "static/js/453.7625681e.chunk.js": "/static/js/453.7625681e.chunk.js",
+    "static/media/background.jpg": "/static/media/background.1d8764fda0083e26a8a7.jpg",
+    "static/media/foudre.png": "/static/media/foudre.d7ec6155ec2126b7dfb4.png",
+    "index.html": "/index.html",
+    "main.ab36d82e.css.map": "/static/css/main.ab36d82e.css.map",
+    "main.fefdbf22.js.map": "/static/js/main.fefdbf22.js.map",
+    "453.7625681e.chunk.js.map": "/static/js/453.7625681e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab36d82e.css",
+    "static/js/main.fefdbf22.js"
+  ]
+}
